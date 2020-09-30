@@ -74,6 +74,13 @@ a fork of notion-deb-builder that does generate an app.asar has been created and
 
 > 📥 `npm i -g notion-enhancer@0.10.0`
 
+### v0.?.? (wip)
+
+- bugfix: removed messenger emoji set as the provider no longer supports it.
+- bugfix: remove shadow around light mode board headers
+  \+ minor text colour fixes for night shift theming.
+- bugfix: properly detect/respond to `EACCES` errors.
+
 ### v0.9.1 (2020-09-26)
 
 - bugfix: font chooser will continue iterating through fonts after encountering a blank option.
