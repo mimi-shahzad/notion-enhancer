@@ -76,6 +76,8 @@ a fork of notion-deb-builder that does generate an app.asar has been created and
 
 ### v0.?.? (wip)
 
+a flexibility update.
+
 - new: mods can be reordered in the menu to control what order styling/scripts are added/executed in.
   higher up on the list = higher priority of application = loaded last in order to override others.
   (excluding core, which though pinned to the top of the list is always loaded first so theming
@@ -86,6 +88,7 @@ a fork of notion-deb-builder that does generate an app.asar has been created and
 - bugfix: properly detect/respond to `EACCES` errors.
 - bugfix: night shift checks every interaction,
   will respond to system changes without any manual changes.
+- bugfix: toc blocks can have text colours.
 - extension: "material ocean" = an oceanic colour palette.
 
 ### v0.9.1 (2020-09-26)
