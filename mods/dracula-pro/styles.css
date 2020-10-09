@@ -37,7 +37,7 @@
   --theme_dark--danger_border: #FFCA80;
 
   --theme_dark--text: #F8F8F2;
-  --theme_dark--text_ui: #7970A9;
+  --theme_dark--text_ui: #9580FF;
   --theme_dark--text_ui_info: #454158;
 
   --theme_dark--text_gray: #454158;
@@ -51,7 +51,7 @@
   --theme_dark--text_red: #FF9580;
 
   --theme_dark--select-text: #000000;
-  --theme_dark--select_gray: #454158;
+  --theme_dark--select_gray: #F8F8F2;
   --theme_dark--select_brown: #7970A9;
   --theme_dark--select_orange: #FFCA80;
   --theme_dark--select_yellow: #FFFF80;
@@ -72,18 +72,18 @@
   --theme_dark--bg_pink: var(--theme_dark--select_pink);
   --theme_dark--bg_red: var(--theme_dark--select_red);
 
-  --theme_dark--line-text: rgb(34, 34, 34);
-  --theme_dark--line_gray: ##454158;
+  --theme_dark--line-text: #F8F8F2;
+  --theme_dark--line_gray: #454158;
   --theme_dark--line_brown: #7970A9;
   --theme_dark--line_orange: #FFCA80;
   --theme_dark--line_yellow: #FFFF80;
-  --theme_dark--line_green: #c8fdd9a3;
+  --theme_dark--line_green: #8AFF80;
   --theme_dark--line_blue: #80FFEA;
   --theme_dark--line_purple: #9580FF;
   --theme_dark--line_pink: #FF80BF;
   --theme_dark--line_red: #FF9580;
 
-  --theme_dark--callout-text: var(--theme_dark--line-text);
+  --theme_dark--callout-text: var(--theme_dark--line_green);
   --theme_dark--callout_gray: var(--theme_dark--line_gray);
   --theme_dark--callout_brown: var(--theme_dark--line_brown);
   --theme_dark--callout_orange: var(--theme_dark--line_orange);
