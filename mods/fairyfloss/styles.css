@@ -84,7 +84,7 @@
   --theme_dark--line_red: #ff857f;
 
   --theme_dark--callout-text: var(--theme_dark--line-text);
-  --theme_dark--callout_gray: var(--theme_dark--line_gray);
+  --theme_dark--callout_gray: var(--theme_dark--line_brown);
   --theme_dark--callout_brown: var(--theme_dark--line_brown);
   --theme_dark--callout_orange: var(--theme_dark--line_orange);
   --theme_dark--callout_yellow: var(--theme_dark--line_yellow);
