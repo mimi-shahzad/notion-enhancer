@@ -6,10 +6,10 @@
  */
 
 :root {
-  --theme_dark--main: #22212C;
-  --theme_dark--sidebar: #22212C;
-  --theme_dark--overlay: #22212C;
-  --theme_dark--dragarea: #22212C;
+  --theme_dark--main: #2A212C;
+  --theme_dark--sidebar: #2A212C;
+  --theme_dark--overlay: #2A212C;
+  --theme_dark--dragarea: #2A212C;
 
   --theme_dark--font_sans: -apple-system, BlinkMacSystemFont,
     'Segoe UI', Helvetica, 'Apple Color Emoji', Arial, sans-serif,
@@ -19,7 +19,7 @@
   --theme_dark--scrollbar_hover: #F8F8F2;
 
   --theme_dark--card: #454158;
-  --theme_dark--gallery: #22212C;
+  --theme_dark--gallery: #2A212C;
   --theme_dark--table-border: rgba(255, 255, 255, 0.1);
   --theme_dark--interactive_hover: #FF80BF;
   --theme_dark--button_close: #FF9580;
@@ -37,7 +37,7 @@
   --theme_dark--danger_border: #FFCA80;
 
   --theme_dark--text: #F8F8F2;
-  --theme_dark--text_ui: #9580FF;
+  --theme_dark--text_ui: #F8F8F2;
   --theme_dark--text_ui_info: #454158;
 
   --theme_dark--text_gray: #454158;
@@ -95,9 +95,9 @@
   --theme_dark--callout_red: var(--theme_dark--line_red);
 
   --theme_dark--code_inline-text: #8AFF80;
-  --theme_dark--code_inline-background: #2A212C;
+  --theme_dark--code_inline-background: #544158;
   --theme_dark--code-text: var(--theme_dark--text);
-  --theme_dark--code-background: #2A212C;
+  --theme_dark--code-background: #544158;
   --theme_dark--code_function: var(--theme_dark--text_blue);
   --theme_dark--code_keyword: var(--theme_dark--text_pink);
   --theme_dark--code_tag: var(--theme_dark--text_pink);
@@ -106,7 +106,7 @@
   --theme_dark--code_property: var(--theme_dark--text_pink);
   --theme_dark--code_builtin: var(--theme_dark--text_yellow);
   --theme_dark--code_attr-name: var(--theme_dark--text_yellow);
-  --theme_dark--code_comment: var(--theme_dark--text_gray);
+  --theme_dark--code_comment: var(--theme_dark--line-text);
   --theme_dark--code_punctuation: var(--theme_dark--text_gray);
   --theme_dark--code_doctype: var(--theme_dark--text_gray);
   --theme_dark--code_number: var(--theme_dark--text_purple);
