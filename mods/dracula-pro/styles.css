@@ -52,7 +52,7 @@
 
   --theme_dark--select-text: #000000;
   --theme_dark--select_gray: #F8F8F2;
-  --theme_dark--select_brown: #7970A9;
+  --theme_dark--select_brown: #e5e2f6;
   --theme_dark--select_orange: #FFCA80;
   --theme_dark--select_yellow: #FFFF80;
   --theme_dark--select_green: #8AFF80;
@@ -97,7 +97,7 @@
   --theme_dark--code_inline-text: #8AFF80;
   --theme_dark--code_inline-background: #544158;
   --theme_dark--code-text: var(--theme_dark--text);
-  --theme_dark--code-background: #544158;
+  --theme_dark--code-background: #22212C;
   --theme_dark--code_function: var(--theme_dark--text_blue);
   --theme_dark--code_keyword: var(--theme_dark--text_pink);
   --theme_dark--code_tag: var(--theme_dark--text_pink);
